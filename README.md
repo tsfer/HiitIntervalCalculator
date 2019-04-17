@@ -29,5 +29,4 @@ Choose what data is shown.
 
 
 
-
-If you are a developer -> https://www.polar.com/accesslink-api/#polar-accesslink-api
+<b> If you are a developer -> https://www.polar.com/accesslink-api/#polar-accesslink-api
