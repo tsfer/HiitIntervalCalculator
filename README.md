@@ -23,7 +23,7 @@ Imput the data parameters from this spreeadsheet to your Polar Personal Training
 
 2) Choose a training session in the Activities view.
 Click IMPORT in the upper right corner.
-From AS XLS or EXPORT AS CSV.
+From AS XLS or CSV.
 Choose the phases.
 Choose what data is shown.
 
