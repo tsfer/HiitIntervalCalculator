@@ -1,6 +1,5 @@
-# HiitIntervalCalculator
+# HIIT Interval Calculator
 Here you will be able to calculate our own customized intervals for HIIT workouts based on data from your cardiac stress test (CPX test).
-
  
 HIIT, or "High-Intensity Interval Training" is a well documented and effective protocol/ training method for those looking to build strength, improve aerobic fitness, burn fat all from a relatively short (duration) training session.
 
